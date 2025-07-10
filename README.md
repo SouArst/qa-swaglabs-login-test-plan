@@ -8,6 +8,5 @@ Este repositório contém o plano de testes manual criado para a funcionalidade 
 
 - ✔️ Plano de testes completo em PDF
 - ✔️ Casos de teste com ID, passos e critérios de aceitação
-- ✔️ Matriz de rastreabilidade
-- ✔️ Evidências com prints e vídeos (sucesso e falha)
+- ✔️ Evidências com prints (sucesso e falha)
 - ❌ Testes automatizados (em breve)
