@@ -1,2 +1,13 @@
-# qa-swaglabs-login-test-plan
-Repositório contendo o plano de testes manual da funcionalidade de login do sistema Swag Labs. Inclui escopo, critérios de aceitação, matriz de rastreabilidade, cenários e casos de teste, além de evidências em imagem. Projeto desenvolvido com foco em aprendizado e portfólio na área de QA (Quality Assurance).
+# Plano de Testes - Swag Labs (Login)
+
+Este repositório contém o plano de testes manual criado para a funcionalidade de **login** do site [Swag Labs](https://www.saucedemo.com/).
+
+---
+
+## 📄 Conteúdo
+
+- ✔️ Plano de testes completo em PDF
+- ✔️ Casos de teste com ID, passos e critérios de aceitação
+- ✔️ Matriz de rastreabilidade
+- ✔️ Evidências com prints e vídeos (sucesso e falha)
+- ❌ Testes automatizados (em breve)
